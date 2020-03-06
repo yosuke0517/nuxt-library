@@ -26,7 +26,7 @@
   - firebase Authentication
   - Firebase Cloud firestore（DB)
   - Firebase cloud functions
-  - ~~Firebase Cloud Messaging（プッシュ通知）~~（２月以降で実装予定）
+  - ~~Firebase Cloud Messaging（プッシュ通知）~~（3月以降で実装予定）
 
 # 使用技術を何に使っているのか
 
