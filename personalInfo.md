@@ -1,0 +1,2 @@
+- [firebase コンソール](https://console.firebase.google.com/project/nuxt-library/overview)
+- [デプロイ URL](https://nuxt-library.firebaseapp.com/)
